@@ -3,6 +3,8 @@
 Course Code - ICT3113 <br>
 Advanced java -RMI Chat Application<br>
 
+The Advanced Java RMI (Remote Method Invocation) Chat Application is a collaborative real-time chat system developed using Java and RMI technology. It allows multiple users to communicate with each other by exchanging messages over a network.
+
 Group Members - <br>J.M.A.S. Jayasooriya - TG514 <br>
                 E.M.D.S. Ekanayake       - TG480 <br>
                 J.S.M. Priyashan         - TG486 <br>
@@ -18,6 +20,7 @@ Step2 :-  run ChatClientMain
  
 -------------------------------------------------------- 
 Tools:<br>
-Netbeans IDE<br>
-JAVA 1.8<br>
+IntelliJ IDE<br>
+JAVA 17<br>
+Hibernate, RMI
                 
