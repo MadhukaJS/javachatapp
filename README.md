@@ -12,11 +12,7 @@ Group Members - <br>J.M.A.S. Jayasooriya - TG514 <br>
  
 -------------------------Instruction----------------------
               
-#Run
-
-Step1 :-  run ChatServerMain <br>
-Step2 :-  run ChatClientMain
-
+Choose ChatAppV2 and run.
  
 -------------------------------------------------------- 
 Tools:<br>
